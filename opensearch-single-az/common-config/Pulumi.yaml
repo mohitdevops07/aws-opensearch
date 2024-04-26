@@ -1,0 +1,7 @@
+---
+name: common-config
+runtime:
+  name: python
+description: This stack contains config and secrets to be consumed by other stacks via references
+config:
+  aws:region: us-east-2
